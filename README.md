@@ -5,6 +5,6 @@ Este es un repositorio  donde estrán los entregables para la asignatura intelig
 Felipe Sánchez Londoño    CC 1026156025      Ingeniería eléctrica.
 
 # Video de la segunda entrega:
-A continuación se adjunta el link del video explicando brevemente las dificultades en el avance dle proyecto y que resultado se tiene hasta el momento.
+A continuación se adjunta el link del video explicando brevemente las dificultades en el avance del proyecto y el resultado obtenido hasta el momento.
 
 Link: https://www.youtube.com/watch?v=UyQNKJGhL8w
