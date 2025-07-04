@@ -9,3 +9,8 @@ Estudiante de Ingeniería eléctrica en la Universidad de Antioquia, sede de Med
 A continuación se adjunta el link del video explicando brevemente las dificultades en el avance del proyecto y el resultado obtenido hasta el momento.
 
 Link: https://www.youtube.com/watch?v=UyQNKJGhL8w
+
+# Video de la entrega final:
+A continuación se adjunta el link del video explicando la solución final del proyecto y el resultado obtenido hasta el momento.
+
+Link: 
