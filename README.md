@@ -13,4 +13,4 @@ Link: https://www.youtube.com/watch?v=UyQNKJGhL8w
 # Video de la entrega final:
 A continuación se adjunta el link del video explicando la solución final del proyecto y el resultado obtenido hasta el momento.
 
-Link: 
+Link: https://youtu.be/El3QAYDyJKA
